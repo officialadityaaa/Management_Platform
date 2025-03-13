@@ -27,5 +27,6 @@ A minimal claims management platform with separate portals for patients and insu
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/claims-management-platform.git
-   cd claims-management-platform/server
+   git clone https://github.com/officialadityaaa/Management_Platform.git
+
+ 
