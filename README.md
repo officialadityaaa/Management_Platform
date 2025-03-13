@@ -13,9 +13,14 @@ A minimal claims management platform with separate portals for patients and insu
 - **Claims Dashboard**: View, filter, and manage claims.
 - **Review Claims**: Approve/reject claims, add comments, and specify approved amounts.
 
-### Shared Features
-- **User Authentication**: Secure login system for patients and insurers.
-- **API Endpoints**: RESTful API for claim management.
+### Screenshots
+Here are some previews of the platform:
+
+![Dashboard](https://github.com/officialadityaaa/Management_Platform/blob/main/Web_Images/Screenshot%202025-03-14%20013911.png?raw=true)
+![Claims View](https://github.com/officialadityaaa/Management_Platform/blob/main/Web_Images/Screenshot%202025-03-14%20013933.png?raw=true)
+![Claim Details](https://github.com/officialadityaaa/Management_Platform/blob/main/Web_Images/Screenshot%202025-03-14%20013941.png?raw=true)
+![Insurer Dashboard](https://github.com/officialadityaaa/Management_Platform/blob/main/Web_Images/Screenshot%202025-03-14%20014006.png?raw=true)
+![Approval Process](https://github.com/officialadityaaa/Management_Platform/blob/main/Web_Images/Screenshot%202025-03-14%20014019.png?raw=true)
 
 ## Tech Stack
 - **Frontend**: React.js
@@ -28,5 +33,4 @@ A minimal claims management platform with separate portals for patients and insu
 1. Clone the repository:
    ```bash
    git clone https://github.com/officialadityaaa/Management_Platform.git
-
- 
+   cd Management_Platform/server
